@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![TODO: Update the path with the name of your diagram]{https://drive.google.com/file/d/1JY9QKYKYb43hqT2agT-hpmnAp6BbFaNc/view?usp=sharing}
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _playbook_____ file may be used to install only certain pieces of it, such as Filebeat.
 - name: Configure Elk VM with Docker
@@ -59,7 +59,7 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly __efficient___, in addition to restricting _acess____ to the network.
+Load balancing ensures that the application will be highly __efficient___, in addition to restricting _access____ to the network.
 - _TODO: What aspect of security do load balancers protect? What is the advantage of a jump box?_
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the ___log events__ and system _services____.
@@ -108,7 +108,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![TODO: Update the path with the name of your screenshot of docker ps output]{https://docs.google.com/document/d/1ecZ2GQwy6G-dmTcAOx_AcGM4W5Pog0kj2JH3nm2YwjQ/edit?usp=sharing}
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
